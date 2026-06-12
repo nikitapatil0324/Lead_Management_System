@@ -1,0 +1,48 @@
+AI Usage Disclosure
+
+Project Name - Lead Management System
+
+AI Tools Used - ChatGPT (OpenAI)
+
+Purpose of AI Usage
+
+ChatGPT was used as a reference and guidance tool for:
+
+* Understanding and planning the project folder structure
+* Assistance with PostgreSQL database connection configuration in Node.js
+* Reference examples for API integration and Express.js routing
+* Clarifying implementation approaches and resolving development doubts
+
+Manual Development Work
+
+The following work was completed manually:
+
+* Requirement analysis and project planning
+* Database schema design and creation in PostgreSQL
+* Backend business logic implementation
+* JWT authentication and role-based authorization implementation
+* Lead management module development
+* Lead auto-assignment logic implementation
+* Activity logging implementation
+* Frontend UI development using React
+* Form validations and API integration
+* Error handling and application testing
+* Database query writing and optimization
+* Debugging, troubleshooting, and code refactoring
+* Project documentation preparation
+
+Engineering Decisions Made Manually
+
+* Selection of application architecture
+* Database table relationships and constraints
+* Authentication and authorization design
+* Lead assignment strategy
+* API design and response structure
+* Frontend component organization
+* Validation and error-handling approach
+
+Responsibility Statement
+
+AI assistance was used only for development guidance, project structure suggestions, database connectivity setup, and API integration references. All core application logic, implementation decisions, coding, testing, debugging, and final project development were completed and verified manually.
+
+
